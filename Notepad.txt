@@ -3,3 +3,4 @@ Test Document
 Change test
 
 New Feature
+New Feature Addition
